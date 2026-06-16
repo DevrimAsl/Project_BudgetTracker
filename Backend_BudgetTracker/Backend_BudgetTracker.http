@@ -1,0 +1,6 @@
+@Backend_BudgetTracker_HostAddress = http://localhost:5200
+
+GET {{Backend_BudgetTracker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
